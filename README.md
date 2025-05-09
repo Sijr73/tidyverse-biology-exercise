@@ -45,12 +45,15 @@ Columns:
 ---
 
 ### 📊 5. Count and Summarize
-**Q8.** Count how many samples exist for each treatment using `count()`  
-**Q9.** Group by `Species` and `Treatment`, and compute the average `Height` using `summarize()`
+**Q8.** Count how many samples exist for each treatment?  
+**Q9.** Group by `Species` and `Treatment`, and compute the average `Height`.
 
 ---
 
 ### 📈 6. Visualize with ggplot2
-**Q10.** Create a bar chart showing the average plant height for each treatment group, separated by species. Use `geom_col()` and `position = "dodge"` for comparison.
+**Q10.**  Create a bar chart showing the average plant height for each treatment group, separated by species.
+
+
+
 
 ---
