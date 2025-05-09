@@ -1,0 +1,7 @@
+Sample_ID,Species,Treatment,Location,Date,Height_cm,Leaf_Width_mm
+P1,Arabidopsis,Control,Greenhouse_A,2024-03-01,12.5,8.2
+P2,Arabidopsis,Fertilizer_A,Greenhouse_A,2024-03-01,15.2,9.1
+P3,Arabidopsis,Fertilizer_B,Greenhouse_B,2024-03-01,13.8,8.7
+P4,Brassica,Control,Greenhouse_A,2024-03-01,20,12.5
+P5,Brassica,Fertilizer_A,Greenhouse_B,2024-03-01,22.5,14
+P6,Brassica,Fertilizer_B,Greenhouse_B,2024-03-01,21.7,13.6
